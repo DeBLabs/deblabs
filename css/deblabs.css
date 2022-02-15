@@ -1,0 +1,33 @@
+.brand-logo img{
+	width:200px
+}
+.nav-color a{
+	color:black;
+}
+#hari-signature::after{
+	border-left: 35px solid #0d47a1;
+    border-right: 34px solid #00a753;
+	
+}
+#hari-signature::before
+{
+	content: "";
+    float: right;
+    height: 4px;
+}
+#hari-signature{
+border-left-color: #0d47a1;
+border-left-style: solid;
+border-left-width: 35px;
+border-right-color: rgb(0, 167, 83);
+border-right-style: solid;
+border-right-width: 34px;
+display: block;
+float: right;
+height: 4px;
+width: 0px;
+}
+footer ul a{
+	font-weight:normal;
+	font-size:13px;
+}
